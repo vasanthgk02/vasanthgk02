@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper in 1947.**
 
-### Blogs posts
+### Latest blogs posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
