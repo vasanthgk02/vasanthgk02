@@ -21,6 +21,7 @@
 
 ### Latest blogs posts :
 <!-- BLOG-POST-LIST:START -->
+- [Importance of C++ STL in Competitive Programming](https://medium.com/theleanprogrammer/importance-of-c-stl-in-competitive-programming-9f9763b62900?source=rss-bb02bc9037a6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
